@@ -1,5 +1,5 @@
 # Hello
-Hello again
 
-Second commit
-Learning
+Hi,
+
+My attempts on the not so complicated questions
